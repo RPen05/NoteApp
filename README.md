@@ -40,6 +40,6 @@
 3. lodash.js
 
 ## Установка и запуск проекта
-1. Клонирование репозитория: `git clone`.
+1. Клонирование репозитория: `git clone https://github.com/RPen05/NoteApp.git`.
 2. Установка зависимостей: `npm install`.
 3. Запуск проекта: `npm run serve`.
